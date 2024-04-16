@@ -2,4 +2,4 @@
 This folder contains the files related to the timeline project. This data visualization technique is available on [Infogram](https://infogram.com/journey-through-middle-earth-1h984wvon5wyz2p).
 
 # Contents
-* Image file of contour plot saved in .png format.
+* Image file of timeline saved in .png format.
